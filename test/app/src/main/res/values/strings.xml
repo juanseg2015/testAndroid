@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="tab_login">Log In</string>
+    <string name="tab_signup">Sign Up</string>
+</resources>
